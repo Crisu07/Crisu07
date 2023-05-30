@@ -1,7 +1,7 @@
-![mybanner](Media/mybanner.png)
+![mybanner](Media/mybanner.png | width=250)
 <!-- Banner generated on https://tcm.pokecharms.com/ and further editted by me -->
 
-<h1 align="center">Hello There 👋, This is Chris Nguyen</h1>
+<!-- <h1 align="center">Hello There 👋, This is Chris Nguyen</h1> -->
 <h3 align="center">🎓I am a California State University Long Beach Computer Science graduate🎓</h3>
 
 - 🔭 I’m currently working on [CrisuBot](https://github.com/Crisu07/CrisuBot)
