@@ -1,11 +1,14 @@
+[![banner](media/1bqSjIIKT5EAAAAASUVORK5CYII.png)][https://github.com/Crisu07]
+<!-- Banner generated on https://tcm.pokecharms.com/ and further editted by me -->
+
 <h1 align="center">Hello There 👋, This is Chris Nguyen</h1>
 <h3 align="center">🎓I am a California State University Long Beach Computer Science graduate🎓</h3>
 
 - 🔭 I’m currently working on [CrisuBot](https://github.com/Crisu07/CrisuBot)
 
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/Crisu07)
+- 👨‍💻 All of my projects are available on my [GitHub](https://github.com/Crisu07)
 
-- 📫 How to reach me **chrisnguyen127@gmail.com**
+- 📫 How to reach me: **chrisnguyen127@gmail.com**
 
 - ⚡ Fun fact 
     - **I enjoy collecting Pokemon cards and building keyboards ⌨️**
