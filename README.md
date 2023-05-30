@@ -1,8 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hello there 👋 This is Chris Nguyen 😄</h1>
 
-<h1 align="center">Hello there 👋, This is Chris Nguyen</h1>
-
-<h3 align="center">I am a California State University of Long Beach graduate, majoring in Computer Science.</h3>
+<h3 align="center">🎓I am a California State University of Long Beach graduate, majoring in Computer Science. 🎓</h3>
 
 <!--
 **Crisu07/Crisu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
