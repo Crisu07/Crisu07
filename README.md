@@ -9,7 +9,8 @@
 
 - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/chris-nguyen-629327275/)
 
-- ⚡ Fun fact **I enjoy collecting Pokemon cards and building keyboards ⌨️**
+- ⚡ Fun fact 
+    - **I enjoy collecting Pokemon cards and building keyboards ⌨️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
