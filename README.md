@@ -1,4 +1,4 @@
-[![banner](media/1bqSjIIKT5EAAAAASUVORK5CYII.png)][https://github.com/Crisu07]
+![mybanner](media/1bqSjIIKT5EAAAAASUVORK5CYII.png)
 <!-- Banner generated on https://tcm.pokecharms.com/ and further editted by me -->
 
 <h1 align="center">Hello There 👋, This is Chris Nguyen</h1>
