@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working on [Personal Site](https://github.com/Crisu07/PersonalSite) and [CrisuBot](https://github.com/Crisu07/CrisuBot)
 
+- 🌱 I’m currently learning [Bootstrap](https://getbootstrap.com) and more about [React](https://reactjs.org/)
+
 - 👨‍💻 All of my projects are available on my [GitHub](https://github.com/Crisu07)
 
 - 📫 How to reach me: **chrisnguyen127@gmail.com**
