@@ -1,5 +1,5 @@
-<img src="Media/mybanner.png" width="1000"></img>
-<!-- Banner generated on https://tcm.pokecharms.com/ and further editted by me -->
+<img src="Media/mybanner2.png" width="1000"></img>
+<!-- Banner generated on https://tcm.pokecharms.com/ -->
 
 <!-- <h1 align="center">Hello There 👋, This is Chris Nguyen</h1> -->
 <h3 align="center">🎓I am a California State University Long Beach Computer Science graduate🎓</h3>
