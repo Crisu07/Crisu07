@@ -4,7 +4,7 @@
 <!-- <h1 align="center">Hello There 👋, This is Chris Nguyen</h1> -->
 <h3 align="center">🎓I am a California State University Long Beach Computer Science graduate🎓</h3>
 
-- 🔭 I’m currently working on [Personal Site](https://github.com/Crisu07/PersonalSite) and [CrisuBot](https://github.com/Crisu07/CrisuBot)
+- 🔭 I’m currently working on [Personal Site](https://github.com/Crisu07/PersonalSite) and [LunarisBot](https://github.com/Crisu07/LunarisBot)
 
 - 🌱 I’m currently learning [Bootstrap](https://getbootstrap.com) and more about [React](https://reactjs.org/)
 
