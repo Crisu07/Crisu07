@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on [Personal Site](https://github.com/Crisu07/PersonalSite) and [LunarisBot](https://github.com/Crisu07/LunarisBot)
 
 - 🌱 I’m currently learning [Bootstrap](https://getbootstrap.com) and more about [React](https://reactjs.org/)
+    - Am also interested about learning [Deno](https://deno.com/manual@v1.34.1/introduction)
 
 - 👨‍💻 All of my projects are available on my [GitHub](https://github.com/Crisu07)
 
