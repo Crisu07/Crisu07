@@ -1,4 +1,4 @@
-<img src="Media/mybanner2.png" width="1000"></img>
+<img src="Media/mybanner.png" width="1000"></img>
 <!-- Banner generated on https://tcm.pokecharms.com/ -->
 
 <!-- <h1 align="center">Hello There 👋, This is Chris Nguyen</h1> -->
