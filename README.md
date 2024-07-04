@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on [Personal Site](https://github.com/Crisu07/PersonalSite) and [Keyboard Portfolio]([https://github.com/Crisu07/LunarisBot](https://github.com/Crisu07/KeebGallery))
 
 - 🌱 I’m currently learning more about [React](https://reactjs.org/)
-      - I am also learning about 
 
 - 👨‍💻 All of my projects are available on my [GitHub](https://github.com/Crisu07)
 
