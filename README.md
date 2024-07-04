@@ -15,7 +15,7 @@
 - ⚡ Fun fact 
     - **I enjoy collecting Pokemon cards and building keyboards ⌨️**
     - **I play various Trading Card Games such as Pokemon, Magic, and One Piece!**
-    - **Keyboard commissions as well as art commissions can be discussed on [Discord](https://discord.gg/t4q99vGpjh)!
+    - **Keyboard commissions as well as art commissions can be discussed on [Discord](https://discord.gg/t4q99vGpjh)!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
