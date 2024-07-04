@@ -4,7 +4,7 @@
 <!-- <h1 align="center">Hello There 👋, This is Chris Nguyen</h1> -->
 <h3 align="center">🎓I am a California State University Long Beach Computer Science graduate🎓</h3>
 
-- 🔭 I’m currently working on [Personal Site](https://github.com/Crisu07/PersonalSite) and [Keyboard Portfolio]([https://github.com/Crisu07/LunarisBot](https://github.com/Crisu07/KeebGallery))
+- 🔭 I’m currently working on [Personal Site](https://github.com/Crisu07/PersonalSite) and [Keyboard Portfolio](https://github.com/Crisu07/KeebGallery)
 
 - 🌱 I’m currently learning more about [React](https://reactjs.org/)
 
@@ -15,7 +15,7 @@
 - ⚡ Fun fact 
     - **I enjoy collecting Pokemon cards and building keyboards ⌨️**
     - **I play various Trading Card Games such as Pokemon, Magic, and One Piece!**
-    - **Keyboard commissions as well as art commissions can be discussed on [Discord]([https://discord.gg/t4q99vGpjh])!
+    - **Keyboard commissions as well as art commissions can be discussed on [Discord](https://discord.gg/t4q99vGpjh)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
