@@ -1,10 +1,10 @@
-<img src="Media/mybanner.png" width="1000"></img>
+<!--<img src="Media/mybanner.png" width="1000"></img>
 <!-- Banner generated on https://tcm.pokecharms.com/ -->
 
 <!-- <h1 align="center">Hello There 👋, This is Chris Nguyen</h1> -->
 <h3 align="center">🎓I am a California State University Long Beach Computer Science graduate🎓</h3>
 
-- 🔭 I’m currently working on [Personal Site](https://github.com/Crisu07/PersonalSite) and [Keyboard Portfolio](https://github.com/Crisu07/KeebGallery)
+- 🔭 Check out my [Personal Site](https://github.com/Crisu07/PersonalSite) and [Keyboard Portfolio](https://github.com/Crisu07/KeebGallery)
 
 - 🌱 I’m currently learning more about [React](https://reactjs.org/)
 
